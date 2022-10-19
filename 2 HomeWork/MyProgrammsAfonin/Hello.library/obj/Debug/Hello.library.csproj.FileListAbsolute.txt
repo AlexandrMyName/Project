@@ -1,0 +1,6 @@
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\2\MyProgrammsAfonin\Hello.library\bin\Debug\Hello.library.dll
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\2\MyProgrammsAfonin\Hello.library\bin\Debug\Hello.library.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\2\MyProgrammsAfonin\Hello.library\obj\Debug\Hello.library.csproj.AssemblyReference.cache
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\2\MyProgrammsAfonin\Hello.library\obj\Debug\Hello.library.csproj.CoreCompileInputs.cache
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\2\MyProgrammsAfonin\Hello.library\obj\Debug\Hello.library.dll
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\2\MyProgrammsAfonin\Hello.library\obj\Debug\Hello.library.pdb

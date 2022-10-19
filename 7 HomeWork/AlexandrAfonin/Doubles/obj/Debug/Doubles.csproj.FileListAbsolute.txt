@@ -1,0 +1,10 @@
+D:\HomeWorkAfonin\7 HomeWork\AlexandrAfonin\Doubles\bin\Debug\Doubles.exe.config
+D:\HomeWorkAfonin\7 HomeWork\AlexandrAfonin\Doubles\bin\Debug\Doubles.exe
+D:\HomeWorkAfonin\7 HomeWork\AlexandrAfonin\Doubles\bin\Debug\Doubles.pdb
+D:\HomeWorkAfonin\7 HomeWork\AlexandrAfonin\Doubles\obj\Debug\Doubles.csproj.AssemblyReference.cache
+D:\HomeWorkAfonin\7 HomeWork\AlexandrAfonin\Doubles\obj\Debug\Doubles.csproj.SuggestedBindingRedirects.cache
+D:\HomeWorkAfonin\7 HomeWork\AlexandrAfonin\Doubles\obj\Debug\Doubles.Properties.Resources.resources
+D:\HomeWorkAfonin\7 HomeWork\AlexandrAfonin\Doubles\obj\Debug\Doubles.csproj.GenerateResource.cache
+D:\HomeWorkAfonin\7 HomeWork\AlexandrAfonin\Doubles\obj\Debug\Doubles.csproj.CoreCompileInputs.cache
+D:\HomeWorkAfonin\7 HomeWork\AlexandrAfonin\Doubles\obj\Debug\Doubles.exe
+D:\HomeWorkAfonin\7 HomeWork\AlexandrAfonin\Doubles\obj\Debug\Doubles.pdb

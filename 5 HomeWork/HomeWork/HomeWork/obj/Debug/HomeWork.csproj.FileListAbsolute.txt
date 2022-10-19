@@ -1,0 +1,12 @@
+D:\HomeWorkAfonin\5 HomeWork\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+D:\HomeWorkAfonin\5 HomeWork\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+D:\HomeWorkAfonin\5 HomeWork\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+D:\HomeWorkAfonin\5 HomeWork\HomeWork\HomeWork\bin\Debug\PasswordAndLoginCheckLib.dll
+D:\HomeWorkAfonin\5 HomeWork\HomeWork\HomeWork\bin\Debug\PasswordAndLoginCheckLib.pdb
+D:\HomeWorkAfonin\5 HomeWork\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.AssemblyReference.cache
+D:\HomeWorkAfonin\5 HomeWork\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.SuggestedBindingRedirects.cache
+D:\HomeWorkAfonin\5 HomeWork\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+D:\HomeWorkAfonin\5 HomeWork\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.CopyComplete
+D:\HomeWorkAfonin\5 HomeWork\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+D:\HomeWorkAfonin\5 HomeWork\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
+D:\HomeWorkAfonin\5 HomeWork\HomeWork\HomeWork\bin\Debug\LogPass.txt

@@ -1,0 +1,12 @@
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\4\AlexandrAfonin\Menu\bin\Debug\Menu.exe.config
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\4\AlexandrAfonin\Menu\bin\Debug\Menu.exe
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\4\AlexandrAfonin\Menu\bin\Debug\Menu.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\4\AlexandrAfonin\Menu\bin\Debug\ArrayLib.dll
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\4\AlexandrAfonin\Menu\bin\Debug\ArrayLib.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\4\AlexandrAfonin\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\4\AlexandrAfonin\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\4\AlexandrAfonin\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\4\AlexandrAfonin\Menu\obj\Debug\Menu.csproj.CopyComplete
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\4\AlexandrAfonin\Menu\obj\Debug\Menu.exe
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\4\AlexandrAfonin\Menu\obj\Debug\Menu.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\4\AlexandrAfonin\Menu\bin\Debug\Text.txt

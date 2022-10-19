@@ -1,0 +1,16 @@
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\2\Proekt\AfoninProgramm\bin\Debug\AfoninProgramm.exe.config
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\2\Proekt\AfoninProgramm\bin\Debug\AfoninProgramm.exe
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\2\Proekt\AfoninProgramm\bin\Debug\AfoninProgramm.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\2\Proekt\AfoninProgramm\obj\Debug\AfoninProgramm.csproj.AssemblyReference.cache
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\2\Proekt\AfoninProgramm\obj\Debug\AfoninProgramm.csproj.SuggestedBindingRedirects.cache
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\2\Proekt\AfoninProgramm\obj\Debug\AfoninProgramm.csproj.CoreCompileInputs.cache
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\2\Proekt\AfoninProgramm\obj\Debug\AfoninProgramm.exe
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\2\Proekt\AfoninProgramm\obj\Debug\AfoninProgramm.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\3\Proekt\AfoninProgramm\bin\Debug\AfoninProgramm.exe.config
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\3\Proekt\AfoninProgramm\bin\Debug\AfoninProgramm.exe
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\3\Proekt\AfoninProgramm\bin\Debug\AfoninProgramm.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\3\Proekt\AfoninProgramm\obj\Debug\AfoninProgramm.csproj.AssemblyReference.cache
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\3\Proekt\AfoninProgramm\obj\Debug\AfoninProgramm.csproj.SuggestedBindingRedirects.cache
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\3\Proekt\AfoninProgramm\obj\Debug\AfoninProgramm.csproj.CoreCompileInputs.cache
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\3\Proekt\AfoninProgramm\obj\Debug\AfoninProgramm.exe
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\3\Proekt\AfoninProgramm\obj\Debug\AfoninProgramm.pdb

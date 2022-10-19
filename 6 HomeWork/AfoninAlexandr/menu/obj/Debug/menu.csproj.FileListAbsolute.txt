@@ -1,0 +1,8 @@
+D:\HomeWorkAfonin\6 HomeWork\AfoninAlexandr\menu\bin\Debug\menu.exe.config
+D:\HomeWorkAfonin\6 HomeWork\AfoninAlexandr\menu\bin\Debug\menu.exe
+D:\HomeWorkAfonin\6 HomeWork\AfoninAlexandr\menu\bin\Debug\menu.pdb
+D:\HomeWorkAfonin\6 HomeWork\AfoninAlexandr\menu\obj\Debug\menu.csproj.AssemblyReference.cache
+D:\HomeWorkAfonin\6 HomeWork\AfoninAlexandr\menu\obj\Debug\menu.csproj.SuggestedBindingRedirects.cache
+D:\HomeWorkAfonin\6 HomeWork\AfoninAlexandr\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+D:\HomeWorkAfonin\6 HomeWork\AfoninAlexandr\menu\obj\Debug\menu.exe
+D:\HomeWorkAfonin\6 HomeWork\AfoninAlexandr\menu\obj\Debug\menu.pdb

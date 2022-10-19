@@ -1,0 +1,6 @@
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\4\AlexandrAfonin\ArrayLib\bin\Debug\ArrayLib.dll
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\4\AlexandrAfonin\ArrayLib\bin\Debug\ArrayLib.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\4\AlexandrAfonin\ArrayLib\obj\Debug\ArrayLib.csproj.AssemblyReference.cache
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\4\AlexandrAfonin\ArrayLib\obj\Debug\ArrayLib.csproj.CoreCompileInputs.cache
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\4\AlexandrAfonin\ArrayLib\obj\Debug\ArrayLib.dll
+C:\Users\sasha\OneDrive\Рабочий стол\ДЗ\4\AlexandrAfonin\ArrayLib\obj\Debug\ArrayLib.pdb
