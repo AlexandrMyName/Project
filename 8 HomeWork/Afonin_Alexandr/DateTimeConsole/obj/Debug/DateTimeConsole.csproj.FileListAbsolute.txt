@@ -1,0 +1,9 @@
+D:\HomeWork\8 HomeWork\Afonin_Alexandr\DateTimeConsole\bin\Debug\file.xml
+D:\HomeWork\8 HomeWork\Afonin_Alexandr\DateTimeConsole\bin\Debug\DateTimeConsole.exe.config
+D:\HomeWork\8 HomeWork\Afonin_Alexandr\DateTimeConsole\bin\Debug\DateTimeConsole.exe
+D:\HomeWork\8 HomeWork\Afonin_Alexandr\DateTimeConsole\bin\Debug\DateTimeConsole.pdb
+D:\HomeWork\8 HomeWork\Afonin_Alexandr\DateTimeConsole\obj\Debug\DateTimeConsole.csproj.AssemblyReference.cache
+D:\HomeWork\8 HomeWork\Afonin_Alexandr\DateTimeConsole\obj\Debug\DateTimeConsole.csproj.SuggestedBindingRedirects.cache
+D:\HomeWork\8 HomeWork\Afonin_Alexandr\DateTimeConsole\obj\Debug\DateTimeConsole.csproj.CoreCompileInputs.cache
+D:\HomeWork\8 HomeWork\Afonin_Alexandr\DateTimeConsole\obj\Debug\DateTimeConsole.exe
+D:\HomeWork\8 HomeWork\Afonin_Alexandr\DateTimeConsole\obj\Debug\DateTimeConsole.pdb
